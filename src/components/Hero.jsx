@@ -15,7 +15,7 @@ const Hero = () => (
         </p>
       </div>
       <div className="flex flex-row justify-between items-center w-full">
-        <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52] text-white ss:leading-[100px] leading-[75px]">
+        <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100px] leading-[75px]">
           The Next <br className="sm:block hidden" />{" "}
           <span className="text-gradient">Generation</span>
         </h1>
@@ -27,7 +27,7 @@ const Hero = () => (
         Payment Method.
       </h1>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Our team of experts uses a methodology to identify the credit cards most
+        Our team of experts use a methodology to identify the credit cards most
         likely to fit your needs. We examine annual percentage rates, annual
         fees.
       </p>
